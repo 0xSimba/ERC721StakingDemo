@@ -1,5 +1,6 @@
 @ds=lib/ds-test/src/
 @solmate=lib/solmate/src/
+@openzeppelin=lib/openzeppelin-contracts
 @std=lib/forge-std/src/
 @clones=lib/clones-with-immutable-args/src/
 @chainlink/=lib/chainlink-brownie-contracts/

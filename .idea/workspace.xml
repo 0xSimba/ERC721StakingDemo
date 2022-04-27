@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e95a275-849e-4abf-a5c0-0a24758237e1" name="Changes" comment="" />
+    <list default="true" id="7e95a275-849e-4abf-a5c0-0a24758237e1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/clones-with-immutable-args" beforeDir="false" afterPath="$PROJECT_DIR$/lib/clones-with-immutable-args" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/clones-with-immutable-args/lib/ds-test" beforeDir="false" afterPath="$PROJECT_DIR$/lib/clones-with-immutable-args/lib/ds-test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/remappings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/remappings.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650952801362</updated>
       <workItem from="1650952804226" duration="9000" />
+      <workItem from="1650979627644" duration="361000" />
     </task>
     <servers />
   </component>
